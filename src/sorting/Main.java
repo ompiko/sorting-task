@@ -52,12 +52,5 @@ public class Main {
       //semua element yang ada pada sebuah variable
       System.out.print(i + ", ");
     }
-    boolean a = false;
-    int j = 0 - 1;
-    if (j < -1) {
-      System.out.println(a);
-    } else {
-      System.out.println(a);
-    }
   }
 }
